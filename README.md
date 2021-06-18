@@ -8,8 +8,9 @@
   
 * Model 
   
-  . BERT를 Fine-tuning한 **RoBERTa**(Robustly Optimized BERT Pretraining Approach)
+  . BERT의 Hyperparameter를 Facebook AI 연구팀에서 Fine-tuning한 **RoBERTa**(Robustly Optimized BERT Pretraining Approach) 모델 사용
   
   . RoBERTa 중 Competition task의 데이터 셋의 15개 언어 특화 지원 추론 모델인 **xlm-roberta-large-xnli** 활용
- 
+  
+  . Programming은 https://huggingface.co/joeddav/xlm-roberta-large-xnli 와 Kaggle Honor Code를 참조하여 작성
   
